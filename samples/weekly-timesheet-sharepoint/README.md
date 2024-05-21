@@ -67,7 +67,7 @@ The second list is **TimeEntries** which is the main list that stores all of the
 | ManagerComments |Multiple lines of text | |
 | EmployeeTxt |Single lines of text | |
 | Status |Choice |Values: Pending, Submitted for Approval, Approved, Rejected |
-| WeekStart |Date | |
+| Week Start |Date | |
 | Employee |Person or Group | |
 | Manager |Person or Group | |
 | Mon |Number | |
